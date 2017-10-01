@@ -49,13 +49,15 @@
 		width: 980px;
 		height:650px;
 	}
+
 	.navbar {
 		width:980px;
 		height:50px;
 	}
+
 	.main-content{
-    width: 103%;
-    height: 600px;
+	    width: 103%;
+	    height: 600px;
 	}
 }
 
@@ -65,14 +67,14 @@
 		width: 768px;
 		height:680px;
 	}
+	
 	.navbar {
 		width:768px;
 		height:50px;
 	}
-	.main-content{
-	.main-content 
-    width: 103%;
-    height: 600px;
+	.main-content{ 
+	    width: 103%;
+	    height: 600px;
 	}
 }
 
@@ -82,21 +84,25 @@
 		width: 640px;
 		height:580px;
 	}
+
 	.ference-img{
 		height: 350px;
 	}
+
 	.lloyd-img{
 		height:420px;
 	}
+
 	.navbar {
 		width:640px;
 		height:50px;
 	}
-	.main-content{
-	.main-content 
-    width: 103%;
-    height: 100%;
-}
+
+	.main-content{ 
+	    width: 103%;
+	    height: 100%;
+	}
+
 	.Portfolio-item img{
     height: 350px;
     width: 200%;
